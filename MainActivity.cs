@@ -1,4 +1,4 @@
-namespace counter;
+namespace speedo;
 using Android.Util;
 
 [Activity(Label = "@string/app_name", MainLauncher = true)]
