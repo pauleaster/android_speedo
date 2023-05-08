@@ -2,6 +2,8 @@
 
 Simple Android counter application developed using Xamarin Android <https://github.com/xamarin/xamarin-android> on Ubuntu 23.04.
 
-Application updated the displayed count when clicked.
+Application updates the displayed count when clicked.
 
-This application uses the MIT License.
+This application uses the  [MIT License](./LICENSE).
+
+A link to an example video is here: [Counter video display 30 secs](./counter.mp4)
