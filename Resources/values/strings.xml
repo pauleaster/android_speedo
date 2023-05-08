@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">counter</string>
+    <string name="app_name">speedo</string>
     <string name="app_text">"000"</string>
 </resources>
